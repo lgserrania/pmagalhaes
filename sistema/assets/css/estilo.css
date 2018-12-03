@@ -1,0 +1,81 @@
+.logo{
+    width: 120px;
+}
+.box-cadastro-categoria{
+    margin-bottom: 40px;
+}
+.box-btn-cad{
+    margin-top:20px;
+}
+.box-cadastro-fornecedor{
+    margin-top:20px;
+}
+ul.list-cadastro li{
+    list-style: none;
+}
+.box-confirma{
+    margin-top:30px;
+}
+section.bd-background{
+    background-image:url(../../images/background.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.box-login{
+    margin-top:200px;
+    margin-left: 380px;
+    background: rgba(255, 255, 255, 0.95);
+    height: 500px;
+   
+}
+.box-login form{
+    margin-top:20px;
+}
+.logo-login{
+    width: 150px;
+    margin-left:100px;
+}
+.btn-login{
+    width: 200px;
+    margin-left:80px;
+    margin-top:40px;
+    background: #002384;
+}
+#btn-login{
+    background: #002384;
+}
+#btn-login:hover{
+    border:none;
+    
+}
+.btn-senha{
+    margin-left: 95px;
+    width: 200px;
+    margin-top:15px
+
+}
+input{
+    outline: none;
+}
+.box-erro{
+    margin-top:20px;
+}
+#box-top{
+    margin-top:80px;
+}
+@media(max-width:1024px){
+    .logo-login{
+        
+        margin-left:80px;
+    }
+    .btn-login{
+        margin-left:50px;
+    }
+}
+ul#aside-menu{
+    margin-top:50px;
+}
+.box-confirma{
+    margin-top:40px;
+}
